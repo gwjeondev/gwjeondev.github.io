@@ -1,5 +1,5 @@
 ---
-title: "Progamming"
+title: Progamming
 layout: single
 permalink: /progamming/
 author_profile: true
