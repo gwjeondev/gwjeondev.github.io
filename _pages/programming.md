@@ -1,7 +1,7 @@
 ---
-title: Progamming
+title: Programming
 layout: single
-permalink: /progamming/
+permalink: /programming/
 # author_profile: true
 # sidebar_main: true
 ---
